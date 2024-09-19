@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ch02_ex2_sol"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ch02_ex2_sol"
+	}
+}
